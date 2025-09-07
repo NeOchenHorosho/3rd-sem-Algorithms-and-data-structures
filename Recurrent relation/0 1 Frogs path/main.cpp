@@ -19,7 +19,7 @@ int main()
     //А должно быть
     if (arr_size == 1)
     {
-        std::cout << "1\n" << arr[0];
+        std::cout << arr[0] << "\n1";
         return 0;
     }
 
